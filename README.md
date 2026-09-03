@@ -1,2 +1,2 @@
 # Tim-hieu-OPenstack
-Tìm hiều và triển khai Opéntack
+Tìm hiều và triển khai Openstack
